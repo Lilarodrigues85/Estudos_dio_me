@@ -44,6 +44,15 @@ body {
   
 }
 
+.nome {
+    padding: 5px;
+}
+
+.email {
+ 
+  padding: 3px;
+}
+
 table {
   border: solid 1px black;
   padding: 2px;
